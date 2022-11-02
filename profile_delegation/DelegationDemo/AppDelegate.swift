@@ -1,9 +1,3 @@
-//
-//  AppDelegate.swift
-//  DelegationDemo
-//
-//  Created by Elvis Marcelo on 10/4/22.
-//
 
 import UIKit
 @main
